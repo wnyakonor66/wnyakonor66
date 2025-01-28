@@ -18,6 +18,7 @@ Scaling Applications with Cloud Infrastructure
 
 
 📜 Certifications
+
 -[**AWS CERTIFIED CLOUD PRACTITIONER**](https://www.credly.com/badges/902cde2e-a4b7-440c-97da-328e0d521d6d/public_url)
 - [**AICE ALX**](https://drive.google.com/file/d/132lpcvTicRaJiNmtFFFcRcbTz8vUURrd/view?usp=drive_link)
 - [**Cisco Network Technician**](https://drive.google.com/file/d/1P6_5gByQZYLnCxQeeHQ2lIhzu1o6GwNL/view?usp=sharing)
